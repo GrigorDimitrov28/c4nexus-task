@@ -1,4 +1,4 @@
-"Silhouette" is an online retailer that sells jewelry.
+**"Silhouette"** is an online retailer that sells jewelry.
 
 1. On top of the website stands the sticky header. It has a logo on the left
    and a sliding **"Category"** menu on the right. The sliding effect is achieved by animating the
@@ -25,3 +25,6 @@
 
 6. Finally, there's the `footer` element that displays basic information about the website coupled with some links.
    The links don't work at the moment and are there for visual purposes.
+
+The app is build with **React + Vite** and can be started by typing `npm install` followed by `npm run dev`.
+It can be accessed at `localhost:3000`.
