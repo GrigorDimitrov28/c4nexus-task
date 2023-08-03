@@ -1,0 +1,404 @@
+{
+  "Rings": [
+    {
+      "model": "Diamond Ring",
+      "brand": "Tiffany & Co.",
+      "price": 320,
+      "discounted": "true",
+      "newPrice": 250,
+      "rating": 3,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Wedding Ring",
+      "brand": "Tiffany & Co.",
+      "price": 371,
+      "rating": 2,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Golden Ring",
+      "brand": "Tiffany & Co.",
+      "price": 1029,
+      "rating": 5,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Emerald Ring",
+      "brand": "Tiffany & Co.",
+      "discounted": "true",
+      "newPrice": 450,
+      "price": 508,
+      "rating": 4,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Ruby Ring",
+      "brand": "Tiffany & Co.",
+      "price": 558,
+      "rating": 5,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Sapphire Ring",
+      "brand": "Tiffany & Co.",
+      "price": 507,
+      "rating": 4,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Topaz Ring",
+      "brand": "Tiffany & Co.",
+      "discounted": "true",
+      "newPrice": 700,
+      "price": 1024,
+      "rating": 1,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Stainless Steel Ring",
+      "brand": "Tiffany & Co.",
+      "price": 257,
+      "rating": 2,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Platinum Ring",
+      "brand": "Tiffany & Co.",
+      "price": 320,
+      "rating": 5,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "White Gold Ring",
+      "brand": "Tiffany & Co.",
+      "price": 1110,
+      "discounted": "true",
+      "newPrice": 750,
+      "rating": 3,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Gold Ring 2",
+      "brand": "Tiffany & Co.",
+      "price": 890,
+      "rating": 1,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Wedding Band",
+      "brand": "Tiffany & Co.",
+      "price": 127,
+      "rating": 3,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Ordinary Ring",
+      "brand": "Tiffany & Co.",
+      "price": 764,
+      "rating": 1,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Special Ring",
+      "brand": "Tiffany & Co.",
+      "price": 346,
+      "rating": 4,
+      "discounted": "true",
+      "newPrice": 280,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "VIP Ring",
+      "brand": "Tiffany & Co.",
+      "price": 1184,
+      "rating": 2,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Mafia Ring",
+      "brand": "Tiffany & Co.",
+      "price": 398,
+      "rating": 1,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Family Ring",
+      "brand": "Tiffany & Co.",
+      "price": 322,
+      "rating": 3,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "NBA Ring",
+      "brand": "Tiffany & Co.",
+      "price": 271,
+      "rating": 4,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Double Ring",
+      "brand": "Tiffany & Co.",
+      "price": 1141,
+      "rating": 3,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Stylish Ring",
+      "brand": "Tiffany & Co.",
+      "price": 148,
+      "rating": 5,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Basic Ring",
+      "brand": "Tiffany & Co.",
+      "price": 421,
+      "rating": 3,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Tiffany Ring",
+      "brand": "Tiffany & Co.",
+      "price": 989,
+      "rating": 2,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    },
+    {
+      "model": "Zodiac Ring",
+      "brand": "Tiffany & Co.",
+      "price": 1131,
+      "rating": 3,
+      "image": "https://www.sapphirestudiosdesign.com/wp-content/uploads/2017/09/vienna-gold-lotus-flower-ring-03.jpg"
+    }
+  ],
+  "Bracelets": [
+    {
+      "model": "Gold Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 1391,
+      "rating": 1,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Diamond Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 1106,
+      "discounted": "true",
+      "newPrice": 1000,
+      "rating": 2,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Platinum Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 764,
+      "rating": 3,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Silver Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 871,
+      "rating": 4,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Emerald Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 1389,
+      "discounted": "true",
+      "newPrice": 1200,
+      "rating": 2,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Ruby Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 338,
+      "discounted": "true",
+      "newPrice": 300,
+      "rating": 4,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Sapphire Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 1397,
+      "rating": 4,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "White Gold Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 247,
+      "rating": 4,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Rose Gold Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 228,
+      "rating": 5,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Steel Bracelet",
+      "brand": "Tiffany & Co.",
+      "price": 200,
+      "rating": 2,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Gold Bracelet 2",
+      "brand": "Tiffany & Co.",
+      "price": 833,
+      "rating": 1,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Diamond Bracelet 2",
+      "brand": "Tiffany & Co.",
+      "price": 544,
+      "discounted": "true",
+      "newPrice": 350,
+      "rating": 2,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Platinum Bracelet 2",
+      "brand": "Tiffany & Co.",
+      "price": 464,
+      "rating": 3,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Silver Bracelet 2",
+      "brand": "Tiffany & Co.",
+      "price": 500,
+      "rating": 4,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Emerald Bracelet 2",
+      "brand": "Tiffany & Co.",
+      "price": 1200,
+      "discounted": "true",
+      "newPrice": 1000,
+      "rating": 2,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Ruby Bracelet 2",
+      "brand": "Tiffany & Co.",
+      "price": 458,
+      "discounted": "true",
+      "newPrice": 350,
+      "rating": 4,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    },
+    {
+      "model": "Sapphire Bracelet 2",
+      "brand": "Tiffany & Co.",
+      "price": 1257,
+      "rating": 4,
+      "image": "https://ie.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dw6398a4b6/productimages/singlepackshot/590719_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+    }
+  ],
+  "Necklaces": [
+    {
+      "model": "Diamond Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 515,
+      "discounted": "true",
+      "newPrice": 450,
+      "rating": 2,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Golden Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 769,
+      "rating": 5,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Steel Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 1454,
+      "rating": 2,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Lucky Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 1008,
+      "discounted": "true",
+      "newPrice": 800,
+      "rating": 2,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Pendant",
+      "brand": "Tiffany & Co.",
+      "price": 912,
+      "rating": 2,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Zodiac Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 1018,
+      "rating": 4,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Necklace 2",
+      "brand": "Tiffany & Co.",
+      "price": 1488,
+      "discounted": "true",
+      "newPrice": 1100,
+      "rating": 1,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Ruby Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 1179,
+      "rating": 3,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Emerald Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 1419,
+      "rating": 5,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Sapphire Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 752,
+      "discounted": "true",
+      "newPrice": 500,
+      "rating": 4,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Topaz Necklace",
+      "brand": "Tiffany & Co.",
+      "price": 1065,
+      "rating": 2,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    },
+    {
+      "model": "Tiffany Special",
+      "brand": "Tiffany & Co.",
+      "price": 1052,
+      "discounted": "true",
+      "newPrice": 450,
+      "rating": 4,
+      "image": "https://www.datocms-assets.com/25216/1604686918-solitaire-round-necklace-1-0ct-rose-gold-front.jpg"
+    }
+  ]
+}

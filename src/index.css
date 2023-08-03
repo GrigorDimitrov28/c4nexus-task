@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400&display=swap");
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+ul {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+span,
+li,
+div,
+button,
+label,
+input {
+  font-family: "Raleway", sans-serif;
+}
+
+input:focus {
+  outline: none;
+}
+
+#root {
+  overflow-x: hidden;
+}
+
+.success {
+  position: fixed;
+  width: 150px;
+  height: 50px;
+  background-color: white;
+  bottom: -55px;
+  right: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  border: 1px solid silver;
+  color: green;
+  z-index: 1;
+  font-weight: bold;
+}
+
+@keyframes show-success {
+  to {
+    bottom: 1rem;
+  }
+}
+
+@keyframes hide-success {
+  to {
+    bottom: -55px;
+  }
+}
